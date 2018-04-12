@@ -1,4 +1,10 @@
-# NorthWest
+# calea-de-aur
+
+### Use stack to build the program:
+1. ```stack init```
+2. ```stack setup```
+3. ```stack build``` or ```stack install```
+
 
 ## The program takes as input 2 files:
 * 'input.i'  - contains n and m integers separated by space on the first line followed by n lines with m quantities of minerals

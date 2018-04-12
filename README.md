@@ -1,6 +1,7 @@
 # calea-de-aur
 
 ### Use stack to build the program:
+0. Install wxwidgets with version between 2.9 to 3.0.3
 1. ```stack init```
 2. ```stack setup```
 3. ```stack build``` or ```stack install```

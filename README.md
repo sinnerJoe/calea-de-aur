@@ -24,10 +24,10 @@ Each cell in the field has a quantity and a quallity attribute.
 Screenshots:
 
 
- ![Calea de aur](https://postimg.cc/image/jxm9vaofx)
+ ![Calea de aur](https://s14.postimg.cc/image/jxm9vaofx)
 
 
-![Dreptunghi Maxim](https://postimg.cc/image/ytkt2w7kd)
+![Dreptunghi Maxim](https://s14.postimg.cc/image/ytkt2w7kd)
 
 
-![Lines 1-2](https://postimg.cc/image/7vqw15un1)
+![Lines 1-2](https://s14.postimg.cc/image/7vqw15un1)

@@ -8,11 +8,11 @@
 
 
 ## The program takes as input 2 files:
-* 'input.i'  - contains n and m integers separated by space on the first line followed by n lines with m quantities of minerals
-* 'calitate' - contains n line of m integers that specify the quality of mineral ores in the cells.
+* 'input.i'  - contains n and m integers separated by space on the first line followed by n lines with m quantities of gold
+* 'calitate' - contains n line of m integers that specify the quality of gold ores in the cells.
 
 Each cell in the field has a quantity and a quallity attribute. 
-### *The files must be in the folder from which you execute the program! *
+### *The files must be in the folder from which you execute the program!*
 ### *You can only select qualities in the range 1-4!*
 ## Functionality:
 - Read/write info about the field

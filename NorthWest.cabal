@@ -32,8 +32,7 @@ library
       base >=4.7 && <5,
       wx   ==0.92.3.0
   exposed-modules:
-      Lib
-    , GoldSeeker
+      GoldSeeker
   other-modules:
       Paths_NorthWest
   default-language: Haskell2010
